@@ -1,2 +1,4 @@
 # GroupAssignment6
 Working with Reem, Zhu and myself
+This is the 6th assignment for groups. We will be separating the work in three's then uploading it to my GitHub avvount once finished. The README was created
+during creation and will be edited by anyone who works on the assignment....I think.
